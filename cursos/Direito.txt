@@ -1,0 +1,10 @@
+{874016039, Aurora Costa, Direito, Concluído}
+{858761395, Gustavo Oliveira, Direito, Cursando}
+{485926788, Maria Júlia Fernandes, Direito, Concluído}
+{187213156, Caio Barros, Direito, Cursando}
+{266198568, Clara Lima, Direito, Concluído}
+{798347333, Samuel Santos, Direito, Concluído}
+{559355973, Valentina Almeida, Direito, Concluído}
+{173840859, Lucas Ribeiro, Direito, Cursando}
+{264048723, Amanda Martins, Direito, Concluído}
+{994106174, Rafaela Castro, Direito, Concluído}

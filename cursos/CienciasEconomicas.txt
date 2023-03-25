@@ -1,0 +1,10 @@
+{362141103, Maria Eduarda Souza, Ciências Econômicas, Cursando}
+{970838897, João Pedro Fernandes, Ciências Econômicas, Concluído}
+{600300615, Beatriz Barros, Ciências Econômicas, Cursando}
+{469561184, Thiago Lima, Ciências Econômicas, Cursando}
+{697639956, Raquel Santos, Ciências Econômicas, Cursando}
+{747489130, João Vitor Almeida, Ciências Econômicas, Concluído}
+{322262498, Helena Costa, Ciências Econômicas, Concluído}
+{530868324, Renato Ribeiro, Ciências Econômicas, Concluído}
+{809541019, Sophia Martins, Ciências Econômicas, Concluído}
+{714452358, Lucas Castro, Ciências Econômicas, Cursando}

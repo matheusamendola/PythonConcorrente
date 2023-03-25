@@ -1,0 +1,10 @@
+{770607828, Otávio Pereira, Educação Física, Concluído}
+{420484817, Júlia Carvalho, Educação Física, Concluído}
+{320210821, César Oliveira, Educação Física, Cursando}
+{138918432, Isadora Nascimento, Educação Física, Concluído}
+{977167145, Leonardo Rodrigues, Educação Física, Concluído}
+{926218916, Marina Gomes, Educação Física, Cursando}
+{428607751, Arthur Martins, Educação Física, Concluído}
+{155204612, Nina Alves, Educação Física, Concluído}
+{364747024, Ricardo Silva, Educação Física, Concluído}
+{361133892, Eloá Souza, Educação Física, Concluído}

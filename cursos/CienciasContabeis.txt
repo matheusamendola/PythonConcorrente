@@ -1,0 +1,10 @@
+{180429251, Bianca Araújo, Ciências Contábeis, Concluído}
+{113410188, Enzo Costa, Ciências Contábeis, Cursando}
+{958644751, Amanda Barros, Ciências Contábeis, Concluído}
+{505431154, Davi Santos, Ciências Contábeis, Cursando}
+{961374746, Mirella Lima, Ciências Contábeis, Concluído}
+{975141508, Rafael Gomes, Ciências Contábeis, Concluído}
+{214751151, Luana Rodrigues, Ciências Contábeis, Cursando}
+{701157813, Vinícius Alves, Ciências Contábeis, Cursando}
+{236443104, Larissa Silva, Ciências Contábeis, Cursando}
+{554600549, Lucas Oliveira, Ciências Contábeis, Cursando}

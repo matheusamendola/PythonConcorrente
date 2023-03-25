@@ -1,0 +1,10 @@
+{382517973, Rafaela Oliveira, Ciência da Computação, Concluído}
+{510020292, Miguel Souza, Ciência da Computação, Concluído}
+{799043792, Gabriela Fernandes, Ciência da Computação, Concluído}
+{102952328, Lucas Barros, Ciência da Computação, Cursando}
+{866155803, Fernanda Santos, Ciência da Computação, Concluído}
+{910041476, Matheus Lima, Ciência da Computação, Cursando}
+{973038531, Isabela Alves, Ciência da Computação, Concluído}
+{529106760, Gustavo Costa, Ciência da Computação, Concluído}
+{330009025, Carolina Silva, Ciência da Computação, Concluído}
+{692392048, Henrique Pereira, Ciência da Computação, Concluído}

@@ -1,0 +1,10 @@
+{213311710, Beatriz Mendonça, Arquitetura e Urbanismo, Cursando}
+{671595350, Noel Oliveira, Arquitetura e Urbanismo, Concluído}
+{367880279, Vicente Paes, Arquitetura e Urbanismo, Concluído}
+{103496364, Rafaela Sepúlveda, Arquitetura e Urbanismo, Concluído}
+{383227036, Juliana Fontes, Arquitetura e Urbanismo, Cursando}
+{583036104, Manuel Grego, Arquitetura e Urbanismo, Concluído}
+{752345964, Felipe Bonilha, Arquitetura e Urbanismo, Cursando}
+{850629421, Pedro Molina, Arquitetura e Urbanismo, Concluído}
+{867044982, Joana Padilha, Arquitetura e Urbanismo, Cursando}
+{613010654, Paula Domingues, Arquitetura e Urbanismo, Concluído}

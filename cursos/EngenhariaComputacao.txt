@@ -1,0 +1,10 @@
+{378804956, Theo Costa, Engenharia de Computação, Cursando}
+{633274205, Eduarda Oliveira, Engenharia de Computação, Cursando}
+{119825842, Felipe Barros, Engenharia de Computação, Cursando}
+{313596696, Luana Lima, Engenharia de Computação, Cursando}
+{416325499, Murilo Santos, Engenharia de Computação, Concluído}
+{917891501, Maria Luíza Almeida, Engenharia de Computação, Cursando}
+{262522391, Arthur Ribeiro, Engenharia de Computação, Cursando}
+{355796729, Lívia Castro, Engenharia de Computação, Cursando}
+{210016312, Vinícius Pereira, Engenharia de Computação, Cursando}
+{724114727, Clara Carvalho, Engenharia de Computação, Concluído}
