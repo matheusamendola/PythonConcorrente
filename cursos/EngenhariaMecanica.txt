@@ -1,0 +1,10 @@
+{481787835, Ayla Costa, Engenharia Mecânica, Cursando}
+{888869670, Ruan Oliveira, Engenharia Mecânica, Concluído}
+{567075904, Isabela Fernandes, Engenharia Mecânica, Cursando}
+{402624578, Igor Barros, Engenharia Mecânica, Concluído}
+{365818544, Sofia Lima, Engenharia Mecânica, Cursando}
+{202615447, Matheus Santos, Engenharia Mecânica, Cursando}
+{885712734, Maria Júlia Almeida, Engenharia Mecânica, Concluído}
+{405234420, Cauã Ribeiro, Engenharia Mecânica, Cursando}
+{958495631, Manuela Castro, Engenharia Mecânica, Cursando}
+{725121488, Gustavo Pereira, Engenharia Mecânica, Cursando}

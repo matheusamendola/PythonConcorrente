@@ -1,0 +1,10 @@
+{486628896, José Augusto Carvalho, Engenharia Civil, Concluído}
+{269188381, Sophie Oliveira, Engenharia Civil, Cursando}
+{740979594, João Lucas Nascimento, Engenharia Civil, Concluído}
+{799629736, Luiza Rodrigues, Engenharia Civil, Concluído}
+{138313138, Nicolas Gomes, Engenharia Civil, Concluído}
+{232242964, Ana Júlia Martins, Engenharia Civil, Concluído}
+{818486869, Pedro Alves, Engenharia Civil, Concluído}
+{983091782, Luísa Silva, Engenharia Civil, Concluído}
+{607650300, Daniel Fernandes, Engenharia Civil, Concluído}
+{610360026, Giovanna Souza, Engenharia Civil, Cursando}

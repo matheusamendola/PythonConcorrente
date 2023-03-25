@@ -1,0 +1,10 @@
+{378804956, Gustavo Oliveira, Engenharia Elétrica, Concluído}
+{633274205, Juliana Nascimento, Engenharia Elétrica, Concluído}
+{119825842, Bernardo Rodrigues, Engenharia Elétrica, Concluído}
+{313596696, Isabelly Gomes, Engenharia Elétrica, Concluído}
+{416325499, Rafaela Martins, Engenharia Elétrica, Cursando}
+{917891501, Gael Alves, Engenharia Elétrica, Concluído}
+{262522391, Bárbara Silva, Engenharia Elétrica, Cursando}
+{355796729, Enrico Fernandes, Engenharia Elétrica, Cursando}
+{210016312, Laís Costa, Engenharia Elétrica, Cursando}
+{724114727, Henrique Souza, Engenharia Elétrica, Cursando}

@@ -1,0 +1,10 @@
+{811131434, Luan Carvalho, Engenharia de Produção, Concluído}
+{948078195, Ana Luísa Oliveira, Engenharia de Produção, Cursando}
+{442716813, Davi Nascimento, Engenharia de Produção, Concluído}
+{577889535, Eloah Rodrigues, Engenharia de Produção, Concluído}
+{851068153, André Gomes, Engenharia de Produção, Cursando}
+{845126636, Luna Martins, Engenharia de Produção, Concluído}
+{274649745, Gabriel Alves, Engenharia de Produção, Cursando}
+{969096850, Maria Luíza Silva, Engenharia de Produção, Cursando}
+{453608122, Carlos Eduardo Fernandes, Engenharia de Produção, Cursando}
+{250344071, Valentina Souza, Engenharia de Produção, Cursando}

@@ -1,0 +1,10 @@
+{502533839, Emiliano Pedrosa, Administração, Concluído}
+{284757063, Anderson Escobar, Administração, Cursando}
+{227016905, Manuel Fidalgo, Administração, Concluído}
+{574935384, Ivan Valência, Administração, Cursando}
+{257389200, Hernani Faro, Administração, Concluído}
+{928154243, Daniel Marin, Administração, Cursando}
+{503580792, Rafaela Grego, Administração, Cursando}
+{660696631, Rodrigo Paes, Administração, Cursando}
+{195086834, Laura Bezerra, Administração, Cursando}
+{195086834, Manuel Uchoa, Administração, Concluído}
